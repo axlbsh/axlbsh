@@ -21,7 +21,7 @@
 ---
 
 ## 📈 My GitHub Stats  
-[Axel Bousch]https://github-readme-stats.vercel.app/api?username=AxelBousch&show_icons=true&theme=dark]
+[Axel Bousch](https://github-readme-stats.vercel.app/api?username=AxelBousch&show_icons=true&theme=dark)
 
 ---
 
