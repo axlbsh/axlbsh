@@ -27,4 +27,4 @@
 
 ## 📫 How to Reach Me  
 - **Email**: axl.bsh@gmail.com  
-- **LinkedIn**: [https://www.linkedin.com/in/axel-bousch-324871234]
+- **LinkedIn**: [[Axel Bousch]](https://www.linkedin.com/in/axel-bousch-324871234)
