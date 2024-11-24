@@ -21,10 +21,10 @@
 ---
 
 ## 📈 My GitHub Stats  
-[https://github-readme-stats.vercel.app/api?username=AxelBousch&show_icons=true&theme=dark]
+[Axel Bousch]https://github-readme-stats.vercel.app/api?username=AxelBousch&show_icons=true&theme=dark]
 
 ---
 
 ## 📫 How to Reach Me  
 - **Email**: axl.bsh@gmail.com  
-- **LinkedIn**: [[Axel Bousch]](https://www.linkedin.com/in/axel-bousch-324871234)
+- **LinkedIn**: [Axel Bousch](https://www.linkedin.com/in/axel-bousch-324871234)
