@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Axel Bousch 👋  
 
-<!--
-**axlbsh/axlbsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student** in *Network and Telecommunications BUT* at IUT de Vélizy.  
+💼 **Apprentice** at *Withings*, passionate about technology, networking, and web development.  
+⚡ **Hobbies**: Sports, cinema, learning new skills, and coding fun projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 My Skills  
+- **Networking**: TCP/IP, equipment configuration, Linux administration.  
+- **Programming**: HTML, CSS, PHP, C.  
+- **Cloud & Tools**: AWS, Docker, virtualization.  
+
+---
+
+## 🌱 What I'm Learning  
+- Advanced networking protocols and configurations.  
+- Cloud-based infrastructure deployment.  
+- Full-stack web development and modern frameworks.  
+
+---
+
+## 📈 My GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AxelBousch&show_icons=true&theme=dark)
+
+---
+
+## 📫 How to Reach Me  
+- **Email**: axl.bsh@gmail.com  
+- **LinkedIn**: [[Con](https://www.linkedin.com/in/axel-bousch-324871234)
